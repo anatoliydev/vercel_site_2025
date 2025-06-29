@@ -30,7 +30,7 @@ const config = {
   organizationName: 'anatoliydev', // Usually your GitHub org/user name.
   projectName: 'vercel_site_2025', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -93,7 +93,6 @@ const config = {
             position: 'left',
             label: 'Eating',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/anatoliydev/vercel_site_2025',
             label: 'GitHub',
