@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'amychta', // Usually your GitHub org/user name.
-  projectName: 'vercel_docusaurus_site_june2025', // Usually your repo name.
+  organizationName: 'anatoliydev', // Usually your GitHub org/user name.
+  projectName: 'vercel_site_2025', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/amychta/vercel_docusaurus_site_june2025/edit/main/',
+            'https://github.com/anatoliydev/vercel_site_2025/edit/main/',
         },
         // blog: {
         //   showReadingTime: true,
@@ -95,7 +95,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/amychta/vercel_docusaurus_site_june2025',
+            href: 'https://github.com/anatoliydev/vercel_site_2025',
             label: 'GitHub',
             position: 'right',
           },
