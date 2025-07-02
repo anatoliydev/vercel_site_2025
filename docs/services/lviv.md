@@ -1,21 +1,8 @@
 # Львівські сервіси
 
-Тут буде інформація про сервіси у Львові.
+Тут буде інформація про сервіси у Львові
 
----
 
-**Приклад таблиці з дрібним текстом:**
-
-| Назва         | Опис                                   |
-|---------------|----------------------------------------|
-| Львів         | <span class="small-text">Місто Лева</span> |
-| Чернігів      | <span class="small-text">Стародавнє місто</span> |
-
----
-
-Тут буде інформація про сервіси у Львові.
-
----
 
 ## 1. Сервіси — Все разом
 
@@ -30,7 +17,6 @@
 | Бутильована вода | Водо-сервіс | [vodo.lviv.ua](https://vodo.lviv.ua/) <br /> [mywatershop.com.ua](https://mywatershop.com.ua/alaska_sale/) |
 | Доставка продуктів | Сільпо, Метро |  |
 
----
 
 ## 2. Сервіси чистоти
 
@@ -43,7 +29,6 @@
 | Доглянуто | [Instagram](https://www.instagram.com/doglyanuto/) <br /> [doglyanuto.com.ua](https://doglyanuto.com.ua/) | Відповіли, не продовжував спілкування |
 | Crystaline Cleaning | [Instagram](https://www.instagram.com/crystalline_cleaning/) <br /> [crystall-cleaning.com](https://crystall-cleaning.com/) | Дзвонили, не говорив |
 
----
 
 ## 3. Сервіси доставки їжі
 

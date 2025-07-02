@@ -52,3 +52,32 @@
   padding-right: 8px;
 }
 
+/* Чітка, але не різка шапка таблиці */
+.markdown table th {
+  background: var(--ifm-color-emphasis-300, #23272f);
+  color: var(--ifm-table-head-color, var(--ifm-font-color-base));
+  font-weight: 600;
+  border-bottom: none;
+}
+
+/* Менш контрастна “зебра” для рядків у темній темі */
+:root[data-theme='dark'] .markdown table tr:nth-child(even) td {
+  background: #23272f;
+}
+:root[data-theme='dark'] .markdown table tr:nth-child(odd) td {
+  background: #181c1f;
+}
+
+/* Для світлої теми залишаємо як було */
+:root[data-theme='light'] .markdown table tr:nth-child(even) td {
+  background: var(--ifm-table-stripe-background, #f6f8fa);
+}
+:root[data-theme='light'] .markdown table tr:nth-child(odd) td {
+  background: var(--ifm-table-background, #fff);
+}
+
+/* Тонкі лінії між рядками */
+.markdown table td {
+  border-bottom: 1px solid var(--ifm-table-border-color, #333);
+}
+
