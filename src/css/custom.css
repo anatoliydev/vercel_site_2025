@@ -33,3 +33,22 @@
 .pagination-nav {
   display: none !important;
 }
+
+/* 
+Розкоментуйте клас .small-text нижче, якщо хочете, щоб текст у таблицях був дрібнішим і сірим.
+Для цього просто видаліть символи коментаря (зірочки та слеші) навколо цього блоку.
+*/
+.small-text {
+  font-size: 0.8em;
+  color: #e0e0e0;
+}
+
+/* Менші відступи у таблицях. Змінюйте padding-top та padding-bottom для регулювання вертикальної відстані в ячейках таблиці */
+.markdown table td,
+.markdown table th {
+  padding-top: 3px;   /* ← тут регулюйте верхній відступ */
+  padding-bottom: 3px;/* ← тут регулюйте нижній відступ */
+  padding-left: 8px;
+  padding-right: 8px;
+}
+

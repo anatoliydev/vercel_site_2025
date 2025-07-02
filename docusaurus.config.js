@@ -94,6 +94,13 @@ const config = {
             label: 'Eating',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'servicesSidebar',
+            position: 'left',
+            label: 'Мої сервіси',
+            docId: 'services/index',
+          },
+          {
             href: 'https://github.com/anatoliydev/vercel_site_2025',
             label: 'GitHub',
             position: 'right',
