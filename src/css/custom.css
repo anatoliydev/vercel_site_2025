@@ -50,6 +50,7 @@
   padding-bottom: 3px;/* ← тут регулюйте нижній відступ */
   padding-left: 8px;
   padding-right: 8px;
+  border: 1px solid #333;
 }
 
 /* Чітка, але не різка шапка таблиці */
@@ -60,7 +61,7 @@
   border-bottom: none;
 }
 
-/* Менш контрастна “зебра” для рядків у темній темі */
+/* Менш контрастна "зебра" для рядків у темній темі */
 :root[data-theme='dark'] .markdown table tr:nth-child(even) td {
   background: #23272f;
 }
@@ -79,5 +80,10 @@
 /* Тонкі лінії між рядками */
 .markdown table td {
   border-bottom: 1px solid var(--ifm-table-border-color, #333);
+}
+
+.category-muted {
+  color: #888 !important;
+  font-weight: 400;
 }
 

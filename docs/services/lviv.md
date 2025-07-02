@@ -6,10 +6,10 @@
 
 ## 1. Сервіси — Все разом
 
-| Категорія      | Назва/Опис | Посилання/Контакти |
-|----------------|------------|--------------------|
-| Комунікація, Стрижка | Fabian Barber Space | [fabianbarbers.com](https://fabianbarbers.com/) <br /> [Запис](https://n113129.alteg.io/select-city/100/select-branch) <br /> TG: FABIAN BARBER SPACE |
-| Стрижка | Grove Street Old | [Instagram](https://www.instagram.com/grove_street.old/) |
+| Категорія | Назва/Опис | Посилання/Контакти |
+|-----------|------------|--------------------|
+| Стрижка   | Fabian Barber Space | [fabianbarbers.com](https://fabianbarbers.com/) <br /> [Запис](https://n113129.alteg.io/select-city/100/select-branch) <br /> TG: FABIAN BARBER SPACE |
+| Стрижка   | Grove Street Old | [Instagram](https://www.instagram.com/grove_street.old/) |
 | Подологія | NH Львів (Гринчишин) | [nh.lviv.ua](https://www.nh.lviv.ua/) |
 | Подологія | Юля Риковська (Чернігів) | Вайбер: "Юля Риковська", Захисників України 17а, офіс 301 |
 | Стоматологія | Симбіотика |  |
