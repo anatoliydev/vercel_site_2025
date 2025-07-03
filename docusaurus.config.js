@@ -101,6 +101,12 @@ const config = {
             docId: 'services/index',
           },
           {
+            type: 'doc',
+            docId: 'other/index',
+            position: 'left',
+            label: 'Інше',
+          },
+          {
             href: 'https://github.com/anatoliydev/vercel_site_2025',
             label: 'GitHub',
             position: 'right',

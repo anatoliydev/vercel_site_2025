@@ -42,6 +42,13 @@ const sidebars = {
       ],
       collapsed: false,
     },
+    {
+      type: 'category',
+      label: 'Інше',
+      items: [
+        'other/day-routine',
+      ],
+    },
   ],
 };
 

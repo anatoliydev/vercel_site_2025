@@ -8,10 +8,9 @@
 
 | Категорія | Назва/Опис | Посилання/Контакти |
 |-----------|------------|--------------------|
-| Стрижка   | Fabian Barber Space | [fabianbarbers.com](https://fabianbarbers.com/) <br /> [Запис](https://n113129.alteg.io/select-city/100/select-branch) <br /> TG: FABIAN BARBER SPACE |
-| Стрижка   | Grove Street Old | [Instagram](https://www.instagram.com/grove_street.old/) |
+| Стрижка   | Fabian Barber Space | [fabianbarbers.com](https://fabianbarbers.com/) <br /> [Запис](https://n113129.alteg.io/select-city/100/select-branch) TG: FABIAN BARBER SPACE |
+| Стрижка   | HeadHunters | [headhunters.com.ua](https://headhunters.com.ua/) <br /> Львів, вул Угорська 12 |
 | Подологія | NH Львів (Гринчишин) | [nh.lviv.ua](https://www.nh.lviv.ua/) |
-| Подологія | Юля Риковська (Чернігів) | Вайбер: "Юля Риковська", Захисників України 17а, офіс 301 |
 | Стоматологія | Симбіотика |  |
 | Хімчистка | Сільпо (Сихів) |  |
 | Бутильована вода | Водо-сервіс | [vodo.lviv.ua](https://vodo.lviv.ua/) <br /> [mywatershop.com.ua](https://mywatershop.com.ua/alaska_sale/) |
